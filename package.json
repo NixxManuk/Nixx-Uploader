@@ -1,0 +1,9 @@
+{
+  "name": "nixx-uploader",
+  "type": "module",
+  "dependencies": {
+    "cloudinary": "^1.41.0",
+    "formidable": "^3.5.1",
+    "nanoid": "^5.0.6"
+  }
+}
